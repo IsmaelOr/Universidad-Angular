@@ -21,3 +21,15 @@ z = a == c;
 console.log(z);
 z = a === c;
 console.log(z);
+
+// Operador distinto de
+z = 3 != 4;
+console.log(z);
+z = a != c;
+console.log(z);
+
+// Operador distinto de "estricto"
+z = a !== c;
+console.log(z);
+z = 3 !== 3;
+console.log(z);
