@@ -16,6 +16,14 @@ console.log(z);
 z = a < b;
 console.log(z);
 
+// Operador Mayor o Igual que       >=
+z = a >= c;
+console.log(z);
+
+// Operador Menor o Igual que       <=
+z = a <= b;
+console.log(z);
+
 // Operador de Igualdad Estricto    ===  (Se basa en que los tipos de datos, tambien sean iguales)
 z = a == c;
 console.log(z);
